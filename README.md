@@ -33,53 +33,55 @@ Ensure you have Node.js and npm (or Yarn) installed on your machine.
 🛠️ Installation
 Clone the repository:
 
-bash
+```bash
 git clone https://github.com/your-username/food-ordering-app.git
+```
 
 Navigate to your project directory:
 
-bash
+```bash
 cd food-ordering-app
+```
 
 Install the dependencies:
 
-bash
-
+```bash
 npm install
+```
 
 Or with Yarn:
-
-bash
-
+```bash
 yarn install
+```
 
 🚀 Running the App
 
 To start the development server and run the app locally:
-
-bash
-
+```bash
 npm start
+```
 
 Or with Yarn:
 
-bash
-
+```bash
 yarn start
-
+```
 The app will be available at http://localhost:1234 (default Parcel port).
 
 🏗️ Building for Production
 To create an optimized production build:
 
+```
 bash
-
 npm run build
+```
+
 Or with Yarn:
 
+```
 bash
-
 yarn build
+```
 
 The output will be in the dist directory, ready to be deployed.
 
