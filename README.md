@@ -71,15 +71,13 @@ The app will be available at http://localhost:1234 (default Parcel port).
 🏗️ Building for Production
 To create an optimized production build:
 
-```
-bash
+```bash
 npm run build
 ```
 
 Or with Yarn:
 
-```
-bash
+```bash
 yarn build
 ```
 
